@@ -2,12 +2,10 @@
 # Final-Project
 # **Intellagent**
 
-![logo intellagent](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-018-hck-group-002/blob/main/logo-1.png)<br>
+![*Kecerdasan di balik setiap keputusan hebat*](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-018-hck-group-002/blob/main/logo-1.png)<br>
 <p align="center" width="100%">
     *Kecerdasan di balik setiap keputusan hebat.* <br>
 </p>
-
-<center>*Kecerdasan di balik setiap keputusan hebat*</center>
 
 ## Pengenalan
 "Intellagent" adalah platform berbasis AI yang menyederhanakan dan mengoptimalkan proses peluncuran produk Anda. Platform ini menggunakan tim agen AI khusus untuk menganalisis masukan pengguna dan memberikan strategi berbasis data untuk keberhasilan peluncuran. Dengan wawasan yang dapat ditindaklanjuti dan rekomendasi yang dipersonalisasi, Intellagent memastikan peluncuran produk Anda berjalan lancar dan berdampak.
