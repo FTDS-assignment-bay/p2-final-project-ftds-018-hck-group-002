@@ -7,6 +7,8 @@
     *Kecerdasan di balik setiap keputusan hebat.* <br>
 </p>
 
+<center>*Kecerdasan di balik setiap keputusan hebat*</center>
+
 ## Pengenalan
 "Intellagent" adalah platform berbasis AI yang menyederhanakan dan mengoptimalkan proses peluncuran produk Anda. Platform ini menggunakan tim agen AI khusus untuk menganalisis masukan pengguna dan memberikan strategi berbasis data untuk keberhasilan peluncuran. Dengan wawasan yang dapat ditindaklanjuti dan rekomendasi yang dipersonalisasi, Intellagent memastikan peluncuran produk Anda berjalan lancar dan berdampak.
 
