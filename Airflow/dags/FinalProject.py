@@ -109,11 +109,14 @@ def preprocessing():
     # Drop rows with missing values
     data.dropna(inplace=True)
     
+    # Function to add spaces between words in column names
+    data.columns = data.columns.str.replace(r'([a-z])([A-Z])', r'\1 \2', regex=True)
+
+    # Replace spaces with underscores in the column names
+    data.columns = data.columns.str.replace(' ', '_')
+
     # Convert all column names to lowercase
     data.columns = data.columns.str.lower()
-
-    # Replace spaces with underscores
-    data.columns = data.columns.str.replace(' ', '_')
 
     # Remove any tab and newline characters from the column names
     data.columns = data.columns.str.replace(r'[\t\n]', '')
