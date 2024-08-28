@@ -2,9 +2,9 @@
 # Final-Project
 # **Intellagent**
 
-<p align="right" width="100%">
+<p align="center" width="100%">
     Kecerdasan di balik setiap keputusan hebat.<br>
-    <img width="33%" src="[https://i.sstatic.net/RJj4x.png](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-018-hck-group-002/blob/main/logo-1.png)">
+    <img width="33%" src="[go-1.png](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-018-hck-group-002/blob/main/logo-1.png))">
 </p>
 
 ![logo intellagent](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-018-hck-group-002/blob/main/logo-1.png)<br>
