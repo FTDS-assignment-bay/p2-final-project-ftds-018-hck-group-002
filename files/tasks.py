@@ -13,7 +13,7 @@ class ProductLaunchPlanningTask():
 				produk: {info_product}
 				tujuan: {info_goals}"""),
       expected_output=dedent(f"""\
-        		Laporan komprehensif yang menyajikan fitur, harga, target audiens, dan ulasan pelanggan. 
+        		Laporan komprehensif dalam Bahasa Indonesia yang menyajikan fitur, harga, target audiens, dan ulasan pelanggan. 
           		identifikasi tren terbaru dalam industri terkait yang dapat mempengaruhi strategi peluncuran produk"""), 
       agent=agent
     #   async_execution=True
@@ -33,7 +33,7 @@ class ProductLaunchPlanningTask():
 				Industri: {info_industry}
 				Tujuan: {info_goals}"""),
 			expected_output=dedent("""\
-				Laporan komprehensif yang menyajikan pemahaman mendalam tentang lanskap industri, tren pasar, dan pesaing utama."""),
+				Laporan komprehensif dalam Bahasa Indonesia yang menyajikan pemahaman mendalam tentang lanskap industri, tren pasar, dan pesaing utama."""),
 			agent=agent
 		)
     
@@ -49,7 +49,7 @@ class ProductLaunchPlanningTask():
 				Industri: {info_industry}
 				Tujuan: {info_goals}"""),
 			expected_output=dedent("""\
-				laporan komprehensif yang mencakup analisis SWOT, peta perjalanan pelanggan, matriks prioritas, dan rencana aksi yang jelas. 
+				laporan komprehensif dalam Bahasa Indonesia yang mencakup analisis SWOT, peta perjalanan pelanggan, matriks prioritas, dan rencana aksi yang jelas. 
     			Laporan ini harus memberikan rekomendasi yang konkret untuk memaksimalkan jangkauan pasar dan mendorong penjualan produk."""),
 			agent=agent
 		)
@@ -66,7 +66,7 @@ class ProductLaunchPlanningTask():
 				Industri: {info_industry}
     			Tujuan: {info_goals}"""),
 			expected_output=dedent("""\
-				Laporan komprehensif yang mencakup USP yang jelas, positioning statement, messaging key, 
+				Laporan komprehensif dalam Bahasa Indonesia yang mencakup USP yang jelas, positioning statement, messaging key, 
     			dan rekomendasi untuk visual identity dan tone of voice yang sesuai dengan positioning produk"""),
 			agent=agent
 		)
@@ -81,7 +81,7 @@ class ProductLaunchPlanningTask():
 
                 Tujuan: {info_goals}"""),
 			expected_output=dedent("""\
-				Laporan eksekutif yang ringkas dan mudah dipahami dengan bahasa indonesia, berisi:
+				Laporan eksekutif dalam Bahasa Indonesia yang ringkas dan mudah dipahami dengan bahasa indonesia, berisi:
                 * Ringkasan temuan utama dari setiap tugas dengan rinci
                 * Rekomendasi strategis rinci untuk mencapai tujuan bisnis
                 * perencanaan berdasarkan timeline dan sumber daya
