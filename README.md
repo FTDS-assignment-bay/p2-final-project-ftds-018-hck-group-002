@@ -17,14 +17,14 @@ Proyek ini didukung oleh kerangka kerja **CrewAI**, yang mengotomatisasi pembuat
 Proyek ini didukung oleh tim agen AI yang berperan, dikoordinasikan melalui CrewAI. Setiap agen diberikan latar belakang, tugas, alat, dan hasil yang diharapkan untuk melaksanakan perannya. Proyek ini terdiri dari lima agen yang masing-masing berfokus pada aspek-aspek berbeda dari peluncuran produk. Mereka menggunakan **Exa Search Tool**, yang memungkinkan mereka mengumpulkan informasi daring untuk dianalisis. Bersama-sama, mereka berkolaborasi untuk memberikan laporan menyeluruh tentang strategi terbaik untuk meluncurkan produk berdasarkan masukan yang diberikan.
 
 ## Menjalankan Script
-- **Konfigurasi Lingkungan**: Salin `.env.example` dan atur variabel lingkungan untuk OpenAI dan Exa.
+- **Konfigurasi Lingkungan**: Atur variabel lingkungan `env.txt` menjadi `.env` untuk OpenAI, Exa, dan Langchain.
 - **Instalasi Dependensi**: Jalankan `pip install -r requirements.txt`.
-- **Jalankan Script**: Jalankan `streamlit run app.py` dan masukkan ide Anda.
+- **Jalankan Script**: Jalankan `streamlit run files/app.py` dan masukkan ide Anda.
 
 ## Detail & Penjelasan
-- **Menjalankan Script**: Jalankan `streamlit run app.py` dan masukkan informasi yang diminta saat diminta. Script ini akan memanfaatkan kerangka kerja CrewAI untuk membuat laporan peluncuran produk untuk Anda.
+- **Menjalankan Script**: Jalankan `streamlit run files/app.py` dan masukkan informasi yang diminta saat diminta. Script ini akan memanfaatkan kerangka kerja CrewAI untuk membuat laporan peluncuran produk untuk Anda.
 - **Komponen Utama**:
-  - `./app.py`: File script utama.
-  - `./tasks.py`: File utama berisi prompt tugas.
-  - `./agents.py`: File utama berisi pembuatan agen.
-  - `./tools.py`: File utama berisi alat untuk agen.
+  - `./files/app.py`: File script utama.
+  - `./files/tasks.py`: File utama berisi prompt tugas.
+  - `./files/agents.py`: File utama berisi pembuatan agen.
+  - `./files/tools.py`: File utama berisi alat untuk agen.
