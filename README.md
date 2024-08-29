@@ -20,7 +20,7 @@ Proyek ini didukung oleh tim agen AI yang berperan, dikoordinasikan melalui Crew
 </p>
 
 Intellagent bekerja dengan menerima input dari pengguna, lalu tim AI yang terdiri dari berbagai agen akan memproses input tersebut sesuai peran masing-masing untuk melakukan riset dan analisis yang diperlukan. Setelah setiap agen menyelesaikan riset dan analisisnya, agen terakhir akan merangkum seluruh hasil dan menyusun laporan komprehensif berdasarkan input dari pengguna.
-![Cara kerja Intellagent secara spesifik](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-018-hck-group-002/blob/main/images/Crew_general.png)<br>
+![Cara kerja Intellagent secara spesifik](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-018-hck-group-002/blob/main/images/Crew_specific.png)<br>
 <p align="center" width="100%">
     <i>
     Cara kerja Intellagent secara spesifik. </i><br>
