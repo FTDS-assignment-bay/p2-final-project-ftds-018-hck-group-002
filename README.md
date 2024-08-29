@@ -2,7 +2,7 @@
 # Final-Project
 # **Intellagent**
 
-![Logo Interllagent](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-018-hck-group-002/blob/main/logo-1.png)<br>
+![Logo Interllagent](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-018-hck-group-002/blob/main/images/logo-1.png)<br>
 <p align="center" width="100%">
     <i>
     Kecerdasan di balik setiap keputusan hebat. </i><br>
