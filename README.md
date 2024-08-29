@@ -20,6 +20,13 @@ Proyek ini didukung oleh tim agen AI yang berperan, dikoordinasikan melalui Crew
 </p>
 
 Intellagent bekerja dengan menerima input dari pengguna, lalu tim AI yang terdiri dari berbagai agen akan memproses input tersebut sesuai peran masing-masing untuk melakukan riset dan analisis yang diperlukan. Setelah setiap agen menyelesaikan riset dan analisisnya, agen terakhir akan merangkum seluruh hasil dan menyusun laporan komprehensif berdasarkan input dari pengguna.
+![Cara kerja Intellagent secara spesifik](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-018-hck-group-002/blob/main/images/Crew_general.png)<br>
+<p align="center" width="100%">
+    <i>
+    Cara kerja Intellagent secara spesifik. </i><br>
+</p>
+
+Terdapat 5 agen, masing-masing memiliki tugas yang sesuai dengan peran mereka. Setiap agen diberikan tujuan (*goal*) dan latar belakang (*backstory*) yang spesifik agar dapat mengoptimalkan riset dan analisis yang mereka lakukan. Setiap tugas dilengkapi dengan deskripsi dan output yang diharapkan, sehingga para agen dapat menyelesaikan tugas mereka sesuai dengan ketentuan dan hasil yang diinginkan. Empat agen yang bertanggung jawab atas riset dan analisis memiliki alat seperti *search*, *find similar*, dan *get contents* yang digunakan untuk menelusuri web, mencari halaman yang mirip, dan mengambil isi dari halaman tersebut untuk dianalisis lebih lanjut. Agen terakhir bertugas menyusun laporan komprehensif berdasarkan hasil riset dan analisis dari agen-agen sebelumnya.
 
 ## Menjalankan Script
 - **Konfigurasi Lingkungan**: Atur variabel lingkungan `env.txt` menjadi `.env` untuk OpenAI, Exa, dan Langchain.
