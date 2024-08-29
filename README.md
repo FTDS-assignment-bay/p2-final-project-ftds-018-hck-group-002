@@ -13,6 +13,8 @@ Proyek ini didukung oleh kerangka kerja **CrewAI**, yang mengotomatisasi pembuat
 
 ## Kerangka Kerja
 Proyek ini didukung oleh tim agen AI yang berperan, dikoordinasikan melalui CrewAI. Setiap agen diberikan latar belakang, tugas, alat, dan hasil yang diharapkan untuk melaksanakan perannya. Proyek ini terdiri dari lima agen yang masing-masing berfokus pada aspek-aspek berbeda dari peluncuran produk. Mereka menggunakan **Exa Search Tool**, yang memungkinkan mereka mengumpulkan informasi daring untuk dianalisis. Bersama-sama, mereka berkolaborasi untuk memberikan laporan menyeluruh tentang strategi terbaik untuk meluncurkan produk berdasarkan masukan yang diberikan.
+
+
 ![Cara Kerja Intellagent](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-018-hck-group-002/blob/main/images/Crew_general.png)<br>
 <p align="center" width="100%">
     <i>
@@ -20,6 +22,8 @@ Proyek ini didukung oleh tim agen AI yang berperan, dikoordinasikan melalui Crew
 </p>
 
 Intellagent bekerja dengan menerima input dari pengguna, lalu tim AI yang terdiri dari berbagai agen akan memproses input tersebut sesuai peran masing-masing untuk melakukan riset dan analisis yang diperlukan. Setelah setiap agen menyelesaikan riset dan analisisnya, agen terakhir akan merangkum seluruh hasil dan menyusun laporan komprehensif berdasarkan input dari pengguna.
+
+
 ![Cara kerja Intellagent secara spesifik](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-018-hck-group-002/blob/main/images/Crew_specific.png)<br>
 <p align="center" width="100%">
     <i>
