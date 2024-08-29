@@ -41,10 +41,10 @@ Terdapat 5 agen, masing-masing memiliki tugas yang sesuai dengan peran mereka. S
   - `./files/agents.py`: File utama berisi pembuatan agen.
   - `./files/tools.py`: File utama berisi alat untuk agen.
 
-## Reference
+## Referensi
 Arenas-Olvera, A. (n.d.). Crew AI crash course step-by-step. Alejandro AO. https://alejandro-ao.com/crew-ai-crash-course-step-by-step/
 
-## Contributor
+## Kontributor
 - [**Heru**](https://github.com/herurmdn7)
 - [**Vincar**](https://github.com/vincar12)
 - [**Devon**](https://github.com/RichieDevon53)
